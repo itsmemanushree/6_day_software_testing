@@ -1,0 +1,10 @@
+steps :
+1. Navigate to weathershopper   
+2. Click on moisturizer or sunscreen 
+3. Add to cart 
+
+Errors faced:
+Less products
+no proper description for product
+Temperature varies
+
