@@ -1,0 +1,3 @@
+learnt about python environments and also testing tools.
+
+Installed kualitee testing app, and tested weathershopper 
