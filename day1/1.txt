@@ -1,1 +1,3 @@
-day1
+BUG REPORT
+1.Infinity errors
+2.No special character or negative number is considered
